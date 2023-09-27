@@ -31,7 +31,7 @@ int main() {
 
         break;
 
-    case 5:    
+    case 5:     result = pow(a, b);
 
         break;
 
